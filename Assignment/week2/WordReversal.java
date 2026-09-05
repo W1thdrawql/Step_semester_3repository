@@ -1,3 +1,5 @@
+package Assignment.week2;
+
 public class WordReversal {
     static String reverseEachWord(String sentence){
         String[] words=sentence.split(" ");

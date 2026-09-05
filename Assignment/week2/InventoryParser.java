@@ -1,3 +1,5 @@
+package Assignment.week2;
+
 public class InventoryParser {
     static void parseInventoryRecord(String csvLine){
         String[] parts=csvLine.split(",");

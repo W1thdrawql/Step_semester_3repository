@@ -1,3 +1,5 @@
+package Assignment.week2;
+
 public class PinValidator {
     static void checkPinLength(String pin){
         if(pin.length()!=4) System.out.println("Invalid PIN — must be exactly 4 digits.");

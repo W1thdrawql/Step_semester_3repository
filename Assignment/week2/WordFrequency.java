@@ -1,3 +1,5 @@
+package Assignment.week2;
+
 import java.util.*;
 
 public class WordFrequency {
